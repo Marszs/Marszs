@@ -1,4 +1,4 @@
  ### ***Take big bites. Anything worth doing is worth overdoing.*** 
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Marszs&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Marszs&show_icons=true&theme=dark)
